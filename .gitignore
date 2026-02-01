@@ -1,0 +1,14 @@
+# JMeter results
+*.jtl
+*.log
+reports/
+results/
+
+# Sensitive configs
+config/*.properties
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
