@@ -42,6 +42,17 @@ API, Database, Jira (Xray), and Jenkins integration.
 - Results published to Jira
 
 ---
+## 🚀 Key JMeter Features Implemented
+
+- Multiple Thread Groups (API-level isolation)
+- User Defined Variables for reusability
+- JDBC Connection Pooling
+- Groovy-based JSR223 assertions
+- CSV-based result persistence
+- Debug Sampler for troubleshooting
+- Token-based authentication handling
+
+-----
 
 ## ▶️ How to Run (Local)
 ```bash
